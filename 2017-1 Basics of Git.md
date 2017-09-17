@@ -22,7 +22,7 @@ For example, writers/poets/authors  can use it to keep track of their writings.
 
 ## How to use Git?
 **1) Installation**:
-(Download Git for your platform)[https://git-scm.com/downloads]  
+[Download Git for your platform](https://git-scm.com/downloads)  
 Install Git from the downloaded setup  
 **2) Running Git**:
 You can use Git from Terminal/Command Prompt or Git Bash (if installed)
