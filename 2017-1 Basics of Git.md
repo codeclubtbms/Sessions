@@ -37,6 +37,18 @@ For e.g,
 `git add .`						Will add all files present in project  
 `git add index.html`				Will add index.html  
 `git add *.js`						Will add all files having .js extension
+* **Commiting (analogus to saving)**  
+`git commit -m “Commit Message”`  
+
+* **Push (analogus to uploading)**  
+`git push <remote_name> <branch_name>`  
+_remote is the repository, mostly stored online on services like Github_  
+
+* **Pull (analogus to downloading changes)**  
+`git pull <remote_name> <branch_name>`  
+
+* **Clone (analogus to copying entire repositories)**  
+`git clone <clone_url>`  
 
 ## Useful Links
 [Official Git Website](https://git-scm.com/)  
